@@ -1,10 +1,10 @@
-# 📊 Indian Kids' Screen Time – Exploratory Data Analysis
+# Indian Kids' Screen Time – Exploratory Data Analysis
 
-This project explores the screen time habits of Indian children using a dataset focused on devices used, screen time duration, health impacts.
+This project examines the screen time habits of Indian children, utilizing a dataset that focuses on devices used, screen time duration, and health impacts.
 
 ---
 
-## 📌 Objective
+## Objective
 
 The goal of this project is to:
 - Understand the distribution of screen time among Indian kids.
@@ -14,7 +14,7 @@ The goal of this project is to:
 
 ---
 
-## 🗃️ Dataset
+## Dataset
 
 - **Source:** (https://www.kaggle.com/datasets/ankushpanday2/indian-kids-screentime-2025)
 - **File:** `Indian_Kids_Screen_Time.csv`
@@ -23,7 +23,7 @@ The goal of this project is to:
 
 ---
 
-## 📈 Process
+## Process
 
 1. **Data Loading & Inspection**
 2. **Data Cleaning**
@@ -34,7 +34,7 @@ The goal of this project is to:
    - Distribution of screen time
    - Device preferences
 4. **Bivariate & Multivariate Analysis**
-   - Screen time vs Health Impact
+   - Screen Time vs Health Impact
    - Gender-wise screen usage
    - Parental control effectiveness
 5. **Visualization**
@@ -43,7 +43,7 @@ The goal of this project is to:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Mobile phones** are the most common screen time device.
 - **Higher screen time** is often associated with **negative health impacts**.
@@ -52,13 +52,13 @@ The goal of this project is to:
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 This EDA provides useful insights for parents, educators, and health professionals to better manage kids' screen time in a digital-first world.
 
 ---
 
-## 📁 Files
+## Files
 
 | File | Description |
 |------|-------------|
@@ -68,11 +68,11 @@ This EDA provides useful insights for parents, educators, and health professiona
 
 ---
 
-## ✅ To Run This Project
+## To Run This Project
 
 1. Clone the repo
 2. Open the Jupyter Notebook in a Python environment (Jupyter, Colab, VSCode, etc.)
-3. Run cells in order to reproduce the analysis
+3. Run cells to reproduce the analysis
 
 ---
 
