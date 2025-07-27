@@ -54,7 +54,7 @@ The goal of this project is to:
 
 ## Conclusion
 
-This EDA provides useful insights for parents, educators, and health professionals to better manage kids' screen time in a digital-first world.
+This EDA offers valuable insights for parents, educators, and healthcare professionals to effectively manage children's screen time in a digital-first world.
 
 ---
 
@@ -76,7 +76,7 @@ This EDA provides useful insights for parents, educators, and health professiona
 
 ---
 
-## 📌 Author
+## Author
 
 Piyush Singh Bhadoriya
 _Data Science Learner | IIT Guwahati_
